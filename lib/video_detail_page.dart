@@ -7,7 +7,7 @@ class VideoDetailPage extends StatelessWidget {
       appBar: AppBar(),
       body: Center(
         child: Container(
-          child: Text('動じゃないよ'),
+          child: Text('動じゃないよお'),
         ),
       ),
     );
